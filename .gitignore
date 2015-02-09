@@ -1,3 +1,5 @@
 bin/
 haskell/*/*.o
 haskell/*/*.hi
+ocaml/*/*.cmi
+ocaml/*/*.cmo

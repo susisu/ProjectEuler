@@ -11,7 +11,7 @@
 | C++         |   1 |
 | Go          |   1 |
 | Haskell     |   1 |
-| Java        |   0 |
+| Java        |   1 |
 | JavaScript  |   1 |
 | OCaml       |   0 |
 | PHP         |   1 |

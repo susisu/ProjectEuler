@@ -1,6 +1,6 @@
 # ああああ
 ## なにこれ
-暇つぶしに [Project Euler](https://projecteuler.net) を各種言語で解いてみようみたいなノリですが, はろーわーるど置き場になっています.
+暇つぶしに [Project Euler](https://projecteuler.net) を各種言語で解いてみようみたいなノリですが, まともに続くかどうかは知りません.
 
 ## あるやつ
 やるとは言っていない.
@@ -11,6 +11,7 @@
 | C++         |   1 |
 | Go          |   1 |
 | Haskell     |   1 |
+| Java        |   0 |
 | JavaScript  |   1 |
 | OCaml       |   0 |
 | PHP         |   1 |

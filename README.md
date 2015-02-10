@@ -13,7 +13,7 @@
 | Haskell     |   1 |
 | JavaScript  |   1 |
 | OCaml       |   0 |
-| PHP         |   0 |
+| PHP         |   1 |
 | Python      |   0 |
 | Ruby        |   1 |
 | Scheme      |   1 |

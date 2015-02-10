@@ -3,7 +3,7 @@
  * Go / main.go
  * copyright (c) 2015 Susisu
  *
- * go / 1.4.1
+ * Go 1.4.1
  * `go build -o bin/main main.go`
  */
 

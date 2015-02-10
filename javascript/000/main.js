@@ -3,7 +3,7 @@
  * JavaScript / main.js
  * copyright (c) 2015 Susisu
  *
- * node / v0.12.0
+ * Node.js v0.12.0
  * `node main.js`
  */
 

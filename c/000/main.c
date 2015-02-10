@@ -3,7 +3,7 @@
  * C / main.c
  * copyright (c) 2015 Susisu
  *
- * gcc / Apple LLVM version 6.0 (clang-600.0.56) (based on LLVM 3.5svn)
+ * GCC / Apple LLVM version 6.0 (clang-600.0.56) (based on LLVM 3.5svn)
  * `gcc main.c -o bin/main`
  */
 

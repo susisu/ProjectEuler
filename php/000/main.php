@@ -4,7 +4,7 @@
  * PHP / main.php
  * copyright (c) 2015 Susisu
  *
- * php / 5.4.30
+ * PHP 5.4.30
  * `php main.php`
  */
 

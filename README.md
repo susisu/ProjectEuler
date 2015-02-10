@@ -9,7 +9,7 @@
 |:-----------:| ---:|
 | C           |   1 |
 | C++         |   1 |
-| Go          |   0 |
+| Go          |   1 |
 | Haskell     |   1 |
 | JavaScript  |   1 |
 | OCaml       |   0 |

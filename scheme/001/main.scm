@@ -6,20 +6,15 @@
 ; `gosh main.scm`
 
 (define main (lambda (args)
-    (print (fold + 0
-        (filter
-            (lambda (n) (or
-                (= 0 (modulo n 3))
-                (= 0 (modulo n 5))
-            ))
-            (range 1 999)
-        )
-    ))
+    (print (calc 1 999 0))
 ))
 
-(define range (lambda (start end)
-    (if (<= start end)
-        (cons start (range (+ 1 start) end))
-        ()
+(define calc (lambda (n max sum)
+    (if (<= n max)
+        (if (or (= 0 (modulo n 3)) (= 0 (modulo n 5)))
+            (calc (+ 1 n) max (+ n sum))
+            (calc (+ 1 n) max sum)
+        )
+        sum
     )
 ))

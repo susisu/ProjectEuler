@@ -10,4 +10,4 @@
 
 fun main () = print "Hello, world!\n"
 
-val () = main ()
+val _ = main ()

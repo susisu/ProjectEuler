@@ -15,6 +15,6 @@
 | OCaml       |   0 |
 | PHP         |   0 |
 | Python      |   0 |
-| Ruby        |   0 |
+| Ruby        |   1 |
 | Scheme      |   1 |
 | Standard ML |   0 |

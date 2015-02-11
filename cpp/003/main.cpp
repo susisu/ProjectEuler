@@ -10,8 +10,8 @@
 #include <iostream>
 
 int main() {
-    int64_t n = 600851475143;
-    int64_t p = 2;
+    long long n = 600851475143;
+    long long p = 2;
     while (n > 1) {
         if (n % p == 0) {
             n /= p;

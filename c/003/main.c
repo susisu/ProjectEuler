@@ -10,8 +10,8 @@
 #include <stdio.h>
 
 int main() {
-    long n = 600851475143;
-    long p = 2;
+    long long n = 600851475143;
+    long long p = 2;
     while (n > 1) {
         if (n % p == 0) {
             n /= p;
@@ -20,6 +20,6 @@ int main() {
             p++;
         }
     }
-    printf("%ld\n", p);
+    printf("%lld\n", p);
     return 0;
 }

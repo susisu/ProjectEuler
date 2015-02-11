@@ -13,7 +13,7 @@
 |      Go     |    1 |
 |   Haskell   |    1 |
 |     Java    |    1 |
-|  JavaScript |    1 |
+|  JavaScript |    2 |
 |    OCaml    |    1 |
 |     Perl    |    1 |
 |     PHP     |    1 |

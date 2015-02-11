@@ -9,17 +9,16 @@
 
 function main() {
     var n = 600851475143;
-    for (var m = 2; m <= n; m++) {
-        if (n % m === 0) {
-            while (n % m === 0) {
-                n /= m;
-            }
+    var p = 2;
+    while (n > 1) {
+        if (n % p === 0) {
+            n /= p;
         }
-        if (n === 1) {
-            console.log(m);
-            break;
+        else {
+            p++;
         }
     }
+    console.log(p);
 }
 
 main();

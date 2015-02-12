@@ -17,9 +17,7 @@ func main() {
     a := 0
     b := 1
     for a <= 4000000 {
-        t := a
-        a  = b
-        b += t
+        a, b = b, a + b
         if a % 2 == 0 {
             sum += a
         }

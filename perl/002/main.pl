@@ -10,9 +10,7 @@ sub main {
     my $a = 0;
     my $b = 1;
     while ($a <= 4000000) {
-        my $t = $a;
-        $a    = $b;
-        $b   += $t;
+        ($a, $b) = ($b, $a + $b);
         if ($a % 2 == 0) {
             $sum += $a;
         }

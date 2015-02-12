@@ -21,4 +21,4 @@
 |     Ruby    |    3 |
 |    Scala    |    3 |
 |    Scheme   |    3 |
-| Standard ML |    1 |
+| Standard ML |    2 |

@@ -15,7 +15,7 @@
 |     Java    |    3 |
 |  JavaScript |    3 |
 |    OCaml    |    3 |
-|     Perl    |    1 |
+|     Perl    |    2 |
 |     PHP     |    1 |
 |    Python   |    1 |
 |     Ruby    |    1 |

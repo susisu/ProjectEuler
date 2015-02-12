@@ -16,7 +16,7 @@
 |  JavaScript |    3 |
 |    OCaml    |    3 |
 |     Perl    |    3 |
-|     PHP     |    2 |
+|     PHP     |    3 |
 |    Python   |    1 |
 |     Ruby    |    1 |
 |    Scala    |    1 |

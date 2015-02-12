@@ -1,4 +1,4 @@
-# ProjectEuler 000
+# ProjectEuler 001
 # Python / main.py
 # copyright (c) 2015 Susisu
 #

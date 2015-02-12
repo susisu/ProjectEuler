@@ -1,4 +1,4 @@
-# ProjectEuler 000
+# ProjectEuler 001
 # Perl / main.pl
 # copyright (c) 2015 Susisu
 #

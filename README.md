@@ -19,6 +19,6 @@
 |     PHP     |    3 |
 |    Python   |    3 |
 |     Ruby    |    3 |
-|    Scala    |    1 |
+|    Scala    |    2 |
 |    Scheme   |    3 |
 | Standard ML |    1 |

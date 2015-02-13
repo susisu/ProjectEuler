@@ -20,5 +20,5 @@
 |    Python   |    3 |
 |     Ruby    |    3 |
 |    Scala    |    3 |
-|    Scheme   |    5 |
+|    Scheme   |    6 |
 | Standard ML |    3 |

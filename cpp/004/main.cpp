@@ -8,6 +8,7 @@
  */
 
 #include <iostream>
+#include <string>
 
 bool isPalindrome(int n) {
     std::string s = std::to_string(n);

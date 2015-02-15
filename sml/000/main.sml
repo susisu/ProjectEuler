@@ -8,6 +8,6 @@
 *)
 
 
-fun main () = print "Hello, world!\n"
+fun main () = print "Hello, world!\n";
 
-val _ = main ()
+val _ = main ();

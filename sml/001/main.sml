@@ -14,8 +14,8 @@ fun calc n max sum =
         else
             calc (n + 1) max sum
     else
-        sum
+        sum;
 
-fun main () = print (Int.toString (calc 1 999 0) ^ "\n")
+fun main () = print (Int.toString (calc 1 999 0) ^ "\n");
 
-val _ = main ()
+val _ = main ();

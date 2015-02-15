@@ -14,8 +14,8 @@ fun calc a b max sum =
         else
             calc b (a + b) max sum
     else
-        sum
+        sum;
 
-fun main () = print (Int.toString (calc 1 1 4000000 0) ^ "\n")
+fun main () = print (Int.toString (calc 1 1 4000000 0) ^ "\n");
 
-val _ = main ()
+val _ = main ();

@@ -10,8 +10,8 @@
 fun calc (n : Int64.int) (p : Int64.int) : Int64.int =
     if n <= 1 then p
     else if n mod p = 0 then calc (n div p) p
-    else calc n (p + 1)
+    else calc n (p + 1);
 
-fun main () = print (Int64.toString (calc 600851475143 2) ^ "\n")
+fun main () = print (Int64.toString (calc 600851475143 2) ^ "\n");
 
-val _ = main ()
+val _ = main ();

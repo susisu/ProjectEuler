@@ -11,7 +11,7 @@
 
 int main() {
     for (int a = 1; a <= 332; a++) {
-        for (int b = 2; b < 1000 - a - b; b++) {
+        for (int b = a + 1; b < 1000 - a - b; b++) {
             if (2 * a * b - 2000 * (a + b) + 1000000 == 0) {
                 printf("%d\n", a * b * (1000 - a - b));
                 return 0;

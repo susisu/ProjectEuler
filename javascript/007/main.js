@@ -9,24 +9,32 @@
 
 function main() {
     var count = 0;
-    var p = 0;
     var n = 2;
-    while (count < 10001) {
-        var r = Math.sqrt(n);
-        var isPrime = true;
-        for (var m = 2; m <= r; m++) {
-            if (n % m === 0) {
-                isPrime = false;
+    while (true) {
+        if (isPrime(n)) {
+            count++;
+            if (count === 10001) {
+                console.log(n);
                 break;
             }
         }
-        if (isPrime) {
-            p = n;
-            count++;
-        }
         n++;
     }
-    console.log(p);
+}
+
+function isPrime(n) {
+    if (n <= 1) {
+        return false;
+    }
+    else {
+        var r = Math.sqrt(n);
+        for (var m = 2; m <= r; m++) {
+            if (n % m === 0) {
+                return false;
+            }
+        }
+        return true;
+    }
 }
 
 main();

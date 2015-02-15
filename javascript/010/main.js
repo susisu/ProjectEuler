@@ -22,16 +22,14 @@ function sumPrimesBelow(n) {
         for (i = 2; i < n; i++) {
             isPrime[i] = true;
         }
-        var p = 2;
         var sum = 0;
-        while (p < n) {
+        for (var p = 2; p < n; p++) {
             if (isPrime[p]) {
                 for (i = p * p; i < n; i += p) {
                     isPrime[i] = false;
                 }
                 sum += p;
             }
-            p++;
         }
         return sum;
     }

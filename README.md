@@ -18,6 +18,6 @@
 |     PHP     |    6 |
 |    Python   |    3 |
 |     Ruby    |    3 |
-|    Scala    |    3 |
+|    Scala    |    4 |
 |    Scheme   |   10 |
 | Standard ML |    3 |

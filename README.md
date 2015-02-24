@@ -9,7 +9,7 @@
 |      C      |   10 |
 |     C++     |   10 |
 |      D      |    3 |
-|      Go     |    3 |
+|      Go     |    4 |
 |   Haskell   |   10 |
 |     Java    |    3 |
 |  JavaScript |   10 |

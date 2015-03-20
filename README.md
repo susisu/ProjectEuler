@@ -17,7 +17,7 @@
 |     Perl    |    3 |
 |     PHP     |   10 |
 |    Python   |    3 |
-|     Ruby    |    6 |
+|     Ruby    |    7 |
 |    Scala    |   10 |
 |    Scheme   |   10 |
 | Standard ML |    3 |

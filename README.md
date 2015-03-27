@@ -16,7 +16,7 @@
 |    OCaml    |    3 |
 |     Perl    |    3 |
 |     PHP     |   10 |
-|    Python   |    5 |
+|    Python   |    6 |
 |     Ruby    |   10 |
 |    Scala    |   10 |
 |    Scheme   |   10 |

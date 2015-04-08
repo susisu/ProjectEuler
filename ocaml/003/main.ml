@@ -8,9 +8,9 @@
 *)
 
 let rec calc n p =
-    if n == 1 then
+    if n = 1 then
         p
-    else if n mod p == 0 then
+    else if n mod p = 0 then
         calc (n / p) p
     else
         calc n (p + 1);;

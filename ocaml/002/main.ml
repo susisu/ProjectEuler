@@ -9,7 +9,7 @@
 
 let rec calc a b max sum =
     if a <= max then
-        if a mod 2 == 0 then
+        if a mod 2 = 0 then
             calc b (a + b) max (sum + a)
         else
             calc b (a + b) max sum

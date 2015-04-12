@@ -13,7 +13,7 @@
 |   Haskell   |   10 |
 |     Java    |   10 |
 |  JavaScript |   11 |
-|    OCaml    |    7 |
+|    OCaml    |    8 |
 |     Perl    |   10 |
 |     PHP     |   10 |
 |    Python   |   10 |

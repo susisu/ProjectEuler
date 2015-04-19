@@ -20,4 +20,4 @@
 |     Ruby    |   10 |
 |    Scala    |   10 |
 |    Scheme   |   10 |
-| Standard ML |    7 |
+| Standard ML |    8 |

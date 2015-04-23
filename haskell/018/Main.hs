@@ -21,4 +21,4 @@ descend :: [Int] -> [Int] -> [Int]
 descend xs ys =
     let as = zipWith (+) xs ys;
         bs = zipWith (+) xs (tail ys)
-    in head as : zipWith (max) (tail as ++ [0]) bs
+    in head as : zipWith max (tail as ++ [0]) bs

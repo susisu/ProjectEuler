@@ -55,11 +55,11 @@ numDivs n = prod - 1
 --calc n = let t = n * (n + 1) `div` 2 in if numDivs t >= 500 then t else calc (n + 1)
 
 --numDivs :: Int -> Int
---numDivs n = if r * r == n then itr 1 else itr 1 - 1
+--numDivs n = if r * r == n then itr 1 0 else itr 1 0 - 1
 --    where
 --        r :: Int
 --        r = ceiling $ sqrt (fromIntegral n)
---        itr :: Int -> Int
---        itr i
---            | i < r     = if n `mod` i == 0 then 2 + itr (i + 1) else itr (i + 1)
---            | otherwise = 0
+--        itr :: Int -> Int -> Int
+--        itr i s
+--            | i < r     = if n `mod` i == 0 then itr (i + 1) (s + 2) else itr (i + 1) s
+--            | otherwise = s

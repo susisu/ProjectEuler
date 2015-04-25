@@ -1,5 +1,5 @@
 {-
-    ProjectEuler 012
+    ProjectEuler 021
     Haskell / Main.hs
     copyright (c) 2015 Susisu
 

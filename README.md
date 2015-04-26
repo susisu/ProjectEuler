@@ -10,7 +10,7 @@
 |     C++     |   10 |
 |      D      |   10 |
 |      Go     |   10 |
-|   Haskell   |   24 |
+|   Haskell   |   25 |
 |     Java    |   10 |
 |  JavaScript |   11 |
 |    OCaml    |   10 |

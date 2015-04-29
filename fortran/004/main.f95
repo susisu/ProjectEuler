@@ -1,4 +1,4 @@
-! ProjectEuler 000
+! ProjectEuler 004
 ! Fortran / main.f95
 ! copyright (c) 2015 Susisu
 

@@ -9,7 +9,7 @@
 |      C      |   10 |
 |     C++     |   10 |
 |      D      |   10 |
-|   Fortran   |    6 |
+|   Fortran   |    7 |
 |      Go     |   10 |
 |   Haskell   |   26 |
 |     Java    |   10 |

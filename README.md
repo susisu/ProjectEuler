@@ -11,7 +11,7 @@
 |      D      |   10 |
 |   Fortran   |    3 |
 |      Go     |   10 |
-|   Haskell   |   25 |
+|   Haskell   |   26 |
 |     Java    |   10 |
 |  JavaScript |   11 |
 |    OCaml    |   10 |

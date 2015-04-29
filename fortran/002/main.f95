@@ -10,7 +10,7 @@ program main
     integer :: s = 0
     integer :: a = 0
     integer :: b = 1
-    integer :: t
+    integer t
     do while(b < 4000000)
         if (mod(b, 2) == 0) s = s + b
         t = a

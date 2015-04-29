@@ -7,8 +7,8 @@
 
 program main
     implicit none
-    character(6) :: s
-    integer :: a, b, c, l, i, j
+    character(6) s
+    integer a, b, c, l, i, j
     integer :: m = 0
     do a = 100, 999
         do b = a, 999

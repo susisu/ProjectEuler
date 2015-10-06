@@ -20,7 +20,7 @@
 |     PHP     |   10 |
 |    Python   |   10 |
 |     Ruby    |   10 |
-|     Rust    |    9 |
+|     Rust    |   10 |
 |    Scala    |   10 |
 |    Scheme   |   10 |
 | Standard ML |   10 |

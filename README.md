@@ -14,7 +14,7 @@
 |   Haskell   |   34 |
 |     Java    |   10 |
 |  JavaScript |   11 |
-|     Lua     |    5 |
+|     Lua     |    6 |
 |    OCaml    |   10 |
 |     Perl    |   10 |
 |     PHP     |   10 |

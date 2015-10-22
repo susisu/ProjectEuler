@@ -1,5 +1,5 @@
 /*
- * ProjectEuler 012
+ * ProjectEuler 013
  * JavaScript / main.js
  * copyright (c) 2015 Susisu
  *

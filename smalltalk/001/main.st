@@ -7,7 +7,10 @@
     `gst main.st`
 "
 
-main := [| sum |
+| main |
+
+main := [
+    | sum |
     sum := 0.
 
     1 to: 999 do: [:n |

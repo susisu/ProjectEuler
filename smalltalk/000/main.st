@@ -7,4 +7,10 @@
     `gst main.st`
 "
 
-Transcript show: 'Hello, world!'; cr.
+| main |
+
+main := [
+    Transcript show: 'Hello, world!'; cr.
+].
+
+main value.

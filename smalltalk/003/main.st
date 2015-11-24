@@ -7,6 +7,8 @@
     `gst main.st`
 "
 
+| main |
+
 main := [
     | n d |
     n := 600851475143.

@@ -7,6 +7,8 @@
     `gst main.st`
 "
 
+| main |
+
 main := [
     | a b c sum |
     a := 1.

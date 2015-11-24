@@ -23,5 +23,5 @@
 |     Rust    |   10 |
 |    Scala    |   10 |
 |    Scheme   |   10 |
-|  Smalltalk  |    2 |
+|  Smalltalk  |    3 |
 | Standard ML |   10 |

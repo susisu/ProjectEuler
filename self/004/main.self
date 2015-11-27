@@ -8,15 +8,23 @@
 "
 
 (|
+    parent* = lobby.
+    isPalindrome: s = (| l |
+        l: s size.
+        0 to: (l / 2) floor Do: [| :i |
+            (s at: i) != (s at: (l - 1 - i)) ifTrue: [
+                ^ false.
+            ]. 
+        ].
+        ^ true.
+    ).
     main = (|
         max <- 0.
     |
         100 to: 999 Do: [| :a |
-            a to: 999 Do: [| :b. p. s. t |
+            a to: 999 Do: [| :b. p |
                 p: a * b.
-                s: p asString.
-                t: p asString reverse.
-                (s = t) && (p > max) ifTrue: [
+                (isPalindrome: (p asString)) && (p > max) ifTrue: [
                     max: p.
                 ].
             ].
@@ -24,4 +32,3 @@
         max printLine.
     ).
 |) main.
-

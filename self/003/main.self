@@ -9,7 +9,7 @@
 
 (|
     main = (|
-        n <- (60085147 * 10000) + 5143. "numeric constant too large"
+        n <- '600851475143' asInteger. "numeric constant too large"
         d <- 2.
     |
         [n > 1] whileTrue: [

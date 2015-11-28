@@ -21,7 +21,7 @@
 |    Python   |   10 |
 |     Ruby    |   10 |
 |     Rust    |   10 |
-|     Self    |    8 |
+|     Self    |    9 |
 |    Scala    |   10 |
 |    Scheme   |   10 |
 |  Smalltalk  |   10 |

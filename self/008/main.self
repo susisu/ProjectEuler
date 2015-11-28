@@ -13,7 +13,7 @@
 "
 
 (|
-    parent* = lobby.
+    parent* = self.
     main = (|
         file.
         digits.

@@ -8,7 +8,7 @@
 "
 
 (|
-    parent* = lobby.
+    parent* = self.
     isPalindrome: s = (| l |
         l: s size.
         0 to: (l / 2) floor Do: [| :i |

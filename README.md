@@ -12,7 +12,7 @@
 |   Fortran   |   10 |
 |      Go     |   10 |
 |   Haskell   |   34 |
-|      Io     |    8 |
+|      Io     |    9 |
 |     Java    |   10 |
 |  JavaScript |   45 |
 |     Lua     |   10 |

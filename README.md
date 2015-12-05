@@ -15,7 +15,7 @@
 |      Io     |   10 |
 |     Java    |   10 |
 |  JavaScript |   45 |
-|    Julia    |    1 |
+|    Julia    |    2 |
 |     Lua     |   10 |
 |    OCaml    |   10 |
 |     Perl    |   10 |

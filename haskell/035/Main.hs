@@ -3,7 +3,7 @@
     Haskell / Main.hs
     copyright (c) 2015 Susisu
 
-    GHC 7.8.3
+    GHC 7.10.2
     `ghc Main.hs -o bin/main -O2`
 -}
 

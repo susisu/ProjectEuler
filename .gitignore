@@ -3,4 +3,6 @@ haskell/*/*.o
 haskell/*/*.hi
 ocaml/*/*.cmi
 ocaml/*/*.cmo
+ocaml/*/*.cmx
+ocaml/*/*.o
 self/run.sh

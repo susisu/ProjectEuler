@@ -17,7 +17,7 @@
 |  JavaScript |   45 |
 |    Julia    |   10 |
 |     Lua     |   10 |
-|    OCaml    |   13 |
+|    OCaml    |   14 |
 |     Perl    |   10 |
 |     PHP     |   10 |
 |    Python   |   10 |
